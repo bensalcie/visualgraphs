@@ -44,12 +44,7 @@ Initial Release
 ### Authors
 [Colorlib](https://colorlib.com)
 
-### More info
-- [Bootstrap Dashboards](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
-- [Angular Dashboards](https://colorlib.com/wp/angularjs-admin-templates/)
-- [Free Admin Dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
-- [Bootstrap Templates](https://colorlib.com/wp/templates/)
-- [WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/)
+
 
 ### License
 
